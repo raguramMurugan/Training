@@ -1,3 +1,4 @@
+// Program verified, Code Verified. No more changes.
 package programforpractice;
 
 public class LinkedList {
@@ -53,10 +54,6 @@ public class LinkedList {
 		ll.insertData(9);
 		ll.insertData(2);
 		ll.insertData(1);
-		
-		
 		ll.middleElementFound();
-		
-		
 	}
 }
